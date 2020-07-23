@@ -1,0 +1,2 @@
+# Ithaca-Progressive
+I am a 25 year old female living in a small upstate NY town named Ithaca. My goal for my local community is to create a website/app where anyone that aligns with more progressive ideals can communicate virtually and also organize a more formal group where they can meet up in person and discuss different local actions the group can take to improve the community that we all love. Collaboration and local action are the top priorities for this app/website.   
